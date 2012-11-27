@@ -1,0 +1,6 @@
+logs/*
+conf/*
+backup/*
+private/*
+photoshop/*
+public/google*.html
